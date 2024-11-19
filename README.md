@@ -1,5 +1,1 @@
-Features:
-  Reads sequences from an input FASTA file \n
-  Removes duplicate sequences
-  Writes deduplicated sequences to an output FASTA file
-  Executable for easy distribution and usage
+Features: reads sequences from an input FASTA file, removes duplicate sequences, writes deduplicated sequences to an output FASTA file, executable for easy distribution and usage
